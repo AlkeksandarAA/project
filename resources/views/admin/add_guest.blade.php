@@ -9,7 +9,7 @@
             <input type="text" class="form-control" id="name" name="name">
           </div>
           <div class="mb-3">
-            <label for="about" class="form-label">Опис на гостин</label>
+            <label for="about" class="form-label">Опис на гостинот</label>
             <input type="text" class="form-control" id="about" name="about">
           </div>
        <button class="btn btn-primary" type="submit">Додај гостин</button>
