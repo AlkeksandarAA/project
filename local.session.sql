@@ -1,1 +1,0 @@
-UPDATE users SET role_id = 3 WHERE id = 1
